@@ -1,0 +1,52 @@
+﻿@model ShoppingStore.Models.Item
+
+@{
+    ViewBag.Title = "Item - " + Model.Title;
+}
+
+
+<h2 style="padding-top:20px;padding-bottom:20px;">@Model.Title</h2>
+<div class="" style="width:100%">
+    <div class="" style="width: 10%; height: 100px; float: left;">
+        <div class="card" style="width: 15rem;box-shadow:5px 5px 5px 5px  #888888">
+
+            <img class="card-img-top" alt="@Model.Title"
+                 src="@Model.ItemArtUrl">
+
+            <div class="card-body">
+                <h5 class="card-title">Category : @Model.Category.Name</h5>
+                <h5 class="card-title">Producer : @Model.Producer.Name</h5>
+                <h5 class="card-title">
+                    Price : @Model.Price €
+                </h5>
+                <p class="button">
+                    @Html.ActionLink("Add to cart", "AddToCart",
+                    "ShoppingCart", new { id = Model.ItemId }, new { @class = "btn btn-custom btn-lg btn-block" })
+                </p>
+
+            </div>
+        </div>
+
+
+    </div>
+    <div class="text-dec" style="margin-left: 24%;">
+        <p style=" padding:20px;margin-bottom:20px;">@Model.Description</p>
+    </div>
+    <div style="padding:25px;margin-left: 24%;">
+        @Html.ActionLink("Back ", "Index", "Home", null, new { @class = "btn btn-custom" })
+        
+    </div>
+</div>
+
+<style>
+    .btn-custom {
+        background-color: #4289ed;
+        color: white;
+    }
+</style>
+<footer class="py-0 bg-primary hide fixed-bottom">
+    <div class="container">
+        <p class="m-0 text-center text-white">&copy; <small>Nektarios Raftis</small> | <small>Basilis Brinias</small>| <small>Panagiotis Floratos</small>| <small>Kostantinos Armenis</small>| <small>Ilias Katsiantonis</small> </p>
+    </div>
+    <!-- /.container -->
+</footer>

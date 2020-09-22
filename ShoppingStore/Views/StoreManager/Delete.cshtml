@@ -1,0 +1,51 @@
+﻿@model ShoppingStore.Models.Item
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    
+}
+<h4 style="padding-top:20px;padding-bottom:20px;">Do you want to <em>DELETE</em> @Model.Title?</h4>
+<div class="card-columns">
+    <div class="col-lg-12">
+        <div class="card" style="width: 15rem;box-shadow:5px 5px 5px 5px  #888888">
+
+            <img class="card-img-top" alt="@Model.Title"
+                 src="@Model.ItemArtUrl">
+
+            <div class="card-body">
+                <h5 class="card-title">Category : @Model.Category.Name</h5>
+                <h5 class="card-title">Producer : @Model.Producer.Name</h5>
+                <h5 class="card-title">
+                    Price : @String.Format("{0:F}",
+Model.Price)
+                </h5>
+                <p class="button">
+                    @Html.ActionLink("Add to cart", "AddToCart",
+                    "ShoppingCart", new { id = Model.ItemId }, new { @class = "btn btn-custom btn-lg btn-block" })
+                </p>
+
+            </div>
+            <h3 style="padding:20px;">Are you sure you want to <em>DELETE</em> this?</h3>
+            <div class="form-actions no-color">
+                <input type="submit" value="Yes" class="btn btn-primary btn-block" /> 
+                @Html.ActionLink("No", "Index", null, new { @class = "btn btn-custom btn-block" })
+
+            </div>
+        </div>
+
+
+    </div>
+</div>
+<style>
+    .btn-custom {
+        background-color: #4289ed;
+        color: white;
+    }
+</style>

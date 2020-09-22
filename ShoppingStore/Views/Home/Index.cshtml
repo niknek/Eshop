@@ -1,0 +1,113 @@
+﻿
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Shop Homepage - Start Bootstrap Template</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <!-- Custom styles for this template -->
+
+    <link href="~/css/shop-homepage.css" rel="stylesheet" />
+</head>
+
+<body style="background-image: url('../../Content/Images/MicrosoftTeams-image (5).png');  background-size: 100% ;">
+    <nav class="navbar navbar-"></nav>
+    <!-- Navigation -->
+    <nav class="navbar-custom fixed-top">
+        <div class="container">
+            <a class="navbar-brand" href="#">Start Bootstrap</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#">
+                            Home
+                            <span class="sr-only">(current)</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Services</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Page Content -->
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3">
+                <h1 class="my-4">Shop Name</h1>
+                @Html.Action("Index", "Store")
+            </div>
+            <div class="col-lg-9">
+                <div style="margin-top:60px;">
+                    @using (Html.BeginForm())
+                    {
+                        <p>
+                            @Html.TextBox("searchstring", null, new { @class = "searchbar", @style = "border:none;outline:none" })
+                            
+                            <input type="submit" value="Search" class="search_icon" />
+                        </p>
+                    }
+                </div>
+                <div class="row" style="padding-top:20px;padding-bottom:20px;">
+                    @Html.Partial("GetItems")
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Footer -->
+    <footer class="py-0 bg-custom hide fixed-bottom">
+        <div class="container">
+            <p class="m-0 text-center text-white">&copy; <small>Nektarios Raftis</small> | <small>Basilis Brinias</small>| <small>Panagiotis Floratos</small>| <small>Kostantinos Armenis</small>| <small>Ilias Katsiantonis</small> </p>
+        </div>
+    </footer>
+    <!-- Bootstrap core JavaScript -->
+    <script src="~/vendor/jquery/jquery.min.js"></script>
+
+    <script src="~/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

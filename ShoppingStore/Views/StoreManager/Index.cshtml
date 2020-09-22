@@ -1,0 +1,74 @@
+﻿@model IEnumerable<ShoppingStore.Models.Item>
+
+@{
+    ViewBag.Title = "Index";
+}
+<br />
+<h2></h2>
+<br />
+<link href="~/Content/bootstrap.css" rel="stylesheet" />
+<p  class="btn btn-custom btn-lg btn-block ">Manage your store</p>
+<table class="table text-center ">
+    <tr  class="table table-active border-dark text-center ">
+        <th>
+           Category @Html.DisplayNameFor(model => model.Category.Name)
+        </th>
+        <th>
+           Producer @Html.DisplayNameFor(model => model.Producer.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Title) of product
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>
+        <th>
+            Customize
+        </th>
+
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr class=" text-center m-5">
+            <td>
+                @Html.DisplayFor(modelItem => item.Category.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Producer.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.ItemId }, new { @class = "btn btn-secondary" }) |
+                @Html.ActionLink("Details", "Details", new { id = item.ItemId }, new { @class = "btn btn-custom" }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.ItemId }, new { @class = "btn btn-danger" })
+            </td>
+        </tr>
+    }
+
+</table>
+<p>
+    @Html.ActionLink("Create New", "Create", null, new { @class = "btn btn-custom" })
+    @Html.ActionLink("Back to Homepage ", "Index", "Home", null, new { @class = "btn btn-custom" })
+
+</p>
+
+<style>
+    .btn-custom {
+        background-color: #4289ed;
+        color: white;
+    }
+</style>
+<footer class="py-0 bg-primary hide fixed-bottom">
+    <div class="container">
+        <p class="m-0 text-center text-white">&copy; <small>Nektarios Raftis</small> | <small>Basilis Brinias</small>| <small>Panagiotis Floratos</small>| <small>Kostantinos Armenis</small>| <small>Ilias Katsiantonis</small> </p>
+    </div>
+    <!-- /.container -->
+</footer>

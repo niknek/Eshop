@@ -1,0 +1,468 @@
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\ShoppingStore.dll.config
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\ShoppingStore.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\ShoppingStore.pdb
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\csc.exe
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\csc.exe.config
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\csc.rsp
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\csi.exe
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\csi.exe.config
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\csi.rsp
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.AppContext.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.Console.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.Net.Http.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.Net.Sockets.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\vbc.exe
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\vbc.exe.config
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\vbc.rsp
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\Antlr3.Runtime.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\EntityFramework.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\EntityFramework.SqlServer.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\Newtonsoft.Json.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\Owin.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\System.Web.Helpers.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\System.Web.Mvc.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\System.Web.Optimization.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\System.Web.Razor.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\System.Web.WebPages.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\WebGrease.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\System.Web.Helpers.xml
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\System.Web.Mvc.xml
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\System.Web.Optimization.xml
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\System.Web.Razor.xml
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\System.Web.WebPages.xml
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\Newtonsoft.Json.xml
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\Antlr3.Runtime.pdb
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\EntityFramework.xml
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\EntityFramework.SqlServer.xml
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.xml
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.xml
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\obj\Debug\ShoppingStore.csprojAssemblyReference.cache
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\obj\Debug\ShoppingStore.csproj.CoreCompileInputs.cache
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\obj\Debug\ShoppingStore.csproj.CopyComplete
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\obj\Debug\ShoppingStore.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\obj\Debug\ShoppingStore.pdb
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\System.Net.Http.Formatting.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\System.Web.Http.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\System.Web.Http.WebHost.dll
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\System.Net.Http.Formatting.xml
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\System.Web.Http.xml
+C:\Users\panag\Desktop\ShoppingStore\ShoppingStore\bin\System.Web.Http.WebHost.xml
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\ShoppingStore.dll.config
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\ShoppingStore.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\ShoppingStore.pdb
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\csc.exe
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\csc.exe.config
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\csc.rsp
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\csi.exe
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\csi.exe.config
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\csi.rsp
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.AppContext.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.Console.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.Net.Http.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.Net.Sockets.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\vbc.exe
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\vbc.exe.config
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\vbc.rsp
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\Antlr3.Runtime.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\EntityFramework.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\EntityFramework.SqlServer.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\Newtonsoft.Json.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\Owin.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\System.Net.Http.Formatting.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\System.Web.Helpers.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\System.Web.Http.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\System.Web.Http.WebHost.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\System.Web.Mvc.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\System.Web.Optimization.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\System.Web.Razor.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\System.Web.WebPages.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\WebGrease.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\System.Net.Http.Formatting.xml
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\System.Web.Http.xml
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\System.Web.Http.WebHost.xml
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\System.Web.Helpers.xml
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\System.Web.Mvc.xml
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\System.Web.Optimization.xml
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\System.Web.Razor.xml
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\System.Web.WebPages.xml
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\Newtonsoft.Json.xml
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\Antlr3.Runtime.pdb
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\EntityFramework.xml
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\EntityFramework.SqlServer.xml
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.xml
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.xml
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\obj\Debug\ShoppingStore.csprojAssemblyReference.cache
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\obj\Debug\ShoppingStore.csproj.CoreCompileInputs.cache
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\obj\Debug\ShoppingStore.csproj.CopyComplete
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\obj\Debug\ShoppingStore.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\obj\Debug\ShoppingStore.pdb
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\PagedList.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\PagedList.Mvc.dll
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\PagedList.xml
+C:\Users\nektarios\Desktop\ShoppingStore\ShoppingStore\bin\PagedList.Mvc.xml
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\ShoppingStore.dll.config
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\ShoppingStore.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\ShoppingStore.pdb
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\csc.exe
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\csc.exe.config
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\csc.rsp
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\csi.exe
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\csi.exe.config
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\csi.rsp
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\System.AppContext.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\System.Console.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\System.Net.Http.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\System.Net.Sockets.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\vbc.exe
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\vbc.exe.config
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\vbc.rsp
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\Antlr3.Runtime.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\EntityFramework.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\EntityFramework.SqlServer.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\Newtonsoft.Json.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\Owin.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\PagedList.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\PagedList.Mvc.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\System.Net.Http.Formatting.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\System.Web.Helpers.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\System.Web.Http.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\System.Web.Http.WebHost.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\System.Web.Mvc.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\System.Web.Optimization.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\System.Web.Razor.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\System.Web.WebPages.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\WebGrease.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\PagedList.xml
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\PagedList.Mvc.xml
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\System.Net.Http.Formatting.xml
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\System.Web.Http.xml
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\System.Web.Http.WebHost.xml
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\System.Web.Helpers.xml
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\System.Web.Mvc.xml
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\System.Web.Optimization.xml
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\System.Web.Razor.xml
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\System.Web.WebPages.xml
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\Newtonsoft.Json.xml
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\Antlr3.Runtime.pdb
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\EntityFramework.xml
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\EntityFramework.SqlServer.xml
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.xml
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.xml
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\obj\Debug\ShoppingStore.csprojAssemblyReference.cache
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\obj\Debug\ShoppingStore.csproj.CoreCompileInputs.cache
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\obj\Debug\ShoppingStore.csproj.CopyComplete
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\obj\Debug\ShoppingStore.dll
+C:\Users\nektarios\Desktop\New folder (2)\ShoppingStore\ShoppingStore\obj\Debug\ShoppingStore.pdb
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\ShoppingStore.dll.config
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\ShoppingStore.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\ShoppingStore.pdb
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\csc.exe
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\csc.exe.config
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\csc.rsp
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\csi.exe
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\csi.exe.config
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\csi.rsp
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\System.AppContext.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\System.Console.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\System.Net.Http.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\System.Net.Sockets.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\vbc.exe
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\vbc.exe.config
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\vbc.rsp
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\Antlr3.Runtime.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\EntityFramework.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\EntityFramework.SqlServer.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\Newtonsoft.Json.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\Owin.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\PagedList.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\PagedList.Mvc.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\System.Net.Http.Formatting.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\System.Web.Helpers.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\System.Web.Http.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\System.Web.Http.WebHost.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\System.Web.Mvc.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\System.Web.Optimization.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\System.Web.Razor.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\System.Web.WebPages.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\WebGrease.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\PagedList.xml
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\PagedList.Mvc.xml
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\System.Net.Http.Formatting.xml
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\System.Web.Http.xml
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\System.Web.Http.WebHost.xml
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\System.Web.Helpers.xml
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\System.Web.Mvc.xml
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\System.Web.Optimization.xml
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\System.Web.Razor.xml
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\System.Web.WebPages.xml
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\Newtonsoft.Json.xml
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\Antlr3.Runtime.pdb
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\EntityFramework.xml
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\EntityFramework.SqlServer.xml
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.xml
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.xml
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\obj\Debug\ShoppingStore.csprojAssemblyReference.cache
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\obj\Debug\ShoppingStore.csproj.CoreCompileInputs.cache
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\obj\Debug\ShoppingStore.csproj.CopyComplete
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\obj\Debug\ShoppingStore.dll
+C:\Users\nektarios\Desktop\FinalProject\ShoppingStore\ShoppingStore\obj\Debug\ShoppingStore.pdb

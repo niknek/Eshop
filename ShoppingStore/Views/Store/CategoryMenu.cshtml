@@ -1,0 +1,15 @@
+﻿@model IEnumerable<ShoppingStore.Models.Category>
+
+<br />
+
+@foreach (var category in Model)
+{
+
+<div class="list-group">
+    <a class="list-group-item ">
+        @Html.ActionLink(category.Name, "Browse", "Store", new { Category = category.Name }, null)
+    </a>
+</div>
+
+}
+

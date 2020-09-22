@@ -1,0 +1,61 @@
+﻿@model PagedList.IPagedList<ShoppingStore.Models.Item>
+@using PagedList.Mvc
+
+<link href="~/Content/PagedList.css" rel="stylesheet" />
+@foreach (var item in Model)
+{
+
+
+    <div class="col-lg-4 col-md-6 mb-4">
+        <div class="card" style="width: 14rem;box-shadow:5px 5px 5px 5px  rgba(155, 155, 155, 0.48)">
+
+            <a href="@Url.Action("Details","Store",new { id = item.ItemId })">
+                <img class="card-img-top" alt="@item.Title" src="@item.ItemArtUrl" style="width:70%;height:150px;margin-left:30px" />
+                <div class="card-body">
+                    <h4 class="card-title">
+                        @item.Title
+                    </h4>
+
+                </div>
+
+            </a>
+            <div class="card-footer">
+                <div>
+                    <div>
+                        <h5>Price @item.Price €</h5>
+                    </div>
+
+                </div>
+                <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
+            </div>
+
+            <div class="caption">
+
+                <p></p>
+
+
+                <div class="product-item-badge">
+
+                    <div>
+                        <p class="button1">
+
+
+                            @Html.ActionLink("Add to cart", "AddToCart",
+                    "ShoppingCart", new { id = item.ItemId }, new { @class = "btn btn-custom btn-lg btn-block" })
+
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+  
+}
+
+
+<div class=" pagin-align card-img-bottom align-middle">
+    Page@(Model.PageCount<Model.PageNumber ? 0 : Model.PageNumber ) of @Model.PageCount
+    @Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+</div>
+

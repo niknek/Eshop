@@ -1,0 +1,135 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Shop Homepage - Start Bootstrap Template</title>
+
+    <!-- Bootstrap core CSS -->
+
+    <link href="~/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <!-- Custom styles for this template -->
+
+    <link href="~/css/shop-homepage.css" rel="stylesheet" />
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    
+
+    <!-- Page Content -->
+    <div class="container">
+
+        <div class="row">
+
+            <div class="col-lg-3">
+
+                <h1 class="my-4">Shop Name</h1>
+                @Html.Action("Index", "Store")
+
+            </div>
+            <!-- /.col-lg-3 -->
+
+
+
+            @foreach (var item in Model.Items)
+            {
+
+                <div class="col-md-3 col-sm-3 col-xs-6 flex-row" style="padding-top:10px;">
+                    <div class="card" style="width: 14rem;box-shadow:5px 5px 5px 5px  #888888;">
+
+                        <a href="@Url.Action("Details","Store",new { id = item.ItemId })">
+                            <img class="card-img card-body justify-content-sm-center" alt="@item.Title" src="@item.ItemArtUrl" style="width:70%;height:150px;margin-left:30px" />
+                            <div class="card-body">
+                                <h4 class="card-title">
+                                    <p>@item.Title</p>
+                                </h4>
+
+
+                            </div>
+
+                        </a>
+
+                        <div class="card-footer">
+                            <h5>Price @item.Price €</h5>
+                            <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
+                        </div>
+                        <div class="caption">
+
+                            <p></p>
+
+
+                            <div class="product-item-badge">
+                                <div>
+                                    <p class="button1">
+
+
+                                        @Html.ActionLink("Add to cart", "AddToCart",
+                                "ShoppingCart", new { id = item.ItemId }, new { @class = "btn btn-light" })
+
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+
+            <!-- Pagination -->
+            <!-- End page content -->
+        </div>
+
+
+        <!-- /.row -->
+
+    </div>
+    <!-- /.col-lg-9 -->
+
+
+
+    <footer class="py-0 bg-primary hide fixed-bottom">
+        <div class="container">
+            <p class="m-0 text-center text-white">&copy; <small>Nektarios Raftis</small> | <small>Basilis Brinias</small>| <small>Panagiotis Floratos</small>| <small>Kostantinos Armenis</small>| <small>Ilias Katsiantonis</small> </p>
+        </div>
+        <!-- /.container -->
+    </footer>
+    <!-- Bootstrap core JavaScript -->
+    <script src="~/vendor/jquery/jquery.min.js"></script>
+
+    <script src="~/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,71 @@
+﻿@model ShoppingStore.ViewModels.ShoppingCartViewModel
+@{
+    ViewBag.Title = "Shopping Cart";
+}
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+<h3 style="padding-top:30px;">
+    <p class="btn btn-custom btn-lg btn-block ">Shopping Cart</p>
+</h3>
+
+<div id="update-message">
+</div>
+<table class="table  text-center ">
+    <tr class="table-active">
+        <th>
+            Item Name
+        </th>
+        <th>
+            Price (each)
+        </th>
+        <th>
+            Quantity
+        </th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model.CartItems)
+    {
+        <tr id="row-@item.RecordId">
+            <td>
+                @Html.ActionLink(item.Item.Title,
+"Details", "Store", new { id = item.ItemId }, null)
+            </td>
+            <td>
+                @item.Item.Price
+            </td>
+            <td id="item-count-@item.RecordId">
+                @item.Count
+            </td>
+            <td>
+                @Html.ActionLink("Back to Details ", "Details", "Store", new { id =item.ItemId  }, new { @class = "btn btn-custom" })
+                @Html.ActionLink("Remove", "RemoveFromCart", "ShoppingCart", new { id = item.ItemId, cartid = item.CartId }, new { @class = "btn btn-custom" })
+            </td>
+        </tr>
+        
+    }
+    <tr>
+        <td>
+        </td>
+        <td id="cart-total"></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+<h4><b>Total price : </b><em><b>@Model.CartTotal</b></em></h4>
+
+<p class="button">
+    @Html.ActionLink("Checkout ", "AddressAndPayment", "Checkout", null, new { @class = "btn btn-custom" })
+    @Html.ActionLink("Back to Homepage ", "Index", "Home",null, new { @class = "btn btn-custom" })
+
+</p>
+<style>
+    .btn-custom {
+        background-color: #4289ed;
+        color: white;
+    }
+</style>
+<footer class="py-0 bg-primary hide fixed-bottom">
+    <div class="container">
+        <p class="m-0 text-center text-white">&copy; <small>Nektarios Raftis</small> | <small>Basilis Brinias</small>| <small>Panagiotis Floratos</small>| <small>Kostantinos Armenis</small>| <small>Ilias Katsiantonis</small> </p>
+    </div>
+    <!-- /.container -->
+</footer>
